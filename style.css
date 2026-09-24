@@ -5,27 +5,30 @@
 ========================================= */
 
 :root {
-    --yellow: #ffd43b;
-    --yellow-dark: #f4b400;
-    --orange: #ff8a3d;
-    --coral: #f45b69;
-    --blue: #2563eb;
-    --blue-dark: #1746a2;
-    --green: #36b37e;
+    --yellow: #FFD166;
+    --yellow-dark: #E9A800;
 
-    --dark: #202124;
-    --text: #454545;
-    --muted: #777;
+    --orange: #FF9BB8;
+    --coral: #FF5C8A;
 
-    --cream: #fffdf5;
-    --light: #f7f8fa;
-    --white: #ffffff;
+    --blue: #E85D9E;
+    --blue-dark: #C83E7D;
 
-    --border: #e8e8e8;
+    --green: #43B581;
 
-    --shadow-sm: 0 5px 20px rgba(0, 0, 0, 0.06);
-    --shadow-md: 0 12px 35px rgba(0, 0, 0, 0.10);
-    --shadow-lg: 0 20px 55px rgba(0, 0, 0, 0.15);
+    --dark: #3A2330;
+    --text: #5A4650;
+    --muted: #8A7780;
+
+    --cream: #FFF5F8;
+    --light: #FFF0F5;
+    --white: #FFFFFF;
+
+    --border: #F3D6E2;
+
+    --shadow-sm: 0 5px 20px rgba(232, 93, 158, 0.08);
+    --shadow-md: 0 12px 35px rgba(232, 93, 158, 0.15);
+    --shadow-lg: 0 20px 55px rgba(232, 93, 158, 0.20);
 
     --radius: 20px;
     --container: 1120px;
